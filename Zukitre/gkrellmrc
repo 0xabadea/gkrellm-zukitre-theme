@@ -1,0 +1,44 @@
+author = Andrei Badea <andrei.badea@movzx.net>
+
+chart_in_color = #496372
+chart_in_color_grid = #496372
+chart_out_color = #a84270
+chart_out_color_grid = #a84270
+#chart_in_color = #4a6f85
+#chart_out_color = #a84270
+
+# don't draw grid lines at the top and bottom of the charts
+bg_grid_mode = 1
+
+StylePanel *.krell_expand = bar-mode
+StylePanel *.krell_depth = 1
+StylePanel *.krell_yoff = 4
+StylePanel *.top_margin = 14
+StylePanel *.bottom_margin = 4
+StylePanel *.textcolor = #b3b3b3 #b3b3b3 none
+StylePanel *.alt_textcolor = #b3b3b3 #b3b3b3 none
+
+StyleChart *.textcolor = #808080 #808080 none
+StyleChart *.alt_textcolor = #808080 #808080 none
+
+rx_led_y = 14
+tx_led_y = 14
+
+decal_mail_frames = 17
+
+StyleMeter *.krell_expand = bar-mode
+StyleMeter *.krell_yoff = 15
+StyleMeter *.krell_depth = 1
+StyleMeter host.top_margin = 0
+StyleMeter host.bottom_margin = 2
+StyleMeter *.top_margin = 2
+StyleMeter *.bottom_margin = 4
+StyleMeter *.left_margin = 0
+StyleMeter *.right_margin = 0
+StyleMeter *.textcolor = #b3b3b3 #b3b3b3 none
+StyleMeter *.alt_textcolor = #b3b3b3 #b3b3b3 none
+
+StyleMeter apm.border = 0,0,0,10
+
+StyleMeter watch.top_margin = 4
+StyleMeter watch.bottom_margin = 5
