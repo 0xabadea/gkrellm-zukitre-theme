@@ -2,10 +2,8 @@ author = Andrei Badea <andrei.badea@movzx.net>
 
 chart_in_color = #496372
 chart_in_color_grid = #496372
-chart_out_color = #a84270
-chart_out_color_grid = #a84270
-#chart_in_color = #4a6f85
-#chart_out_color = #a84270
+chart_out_color = #7d3a51
+chart_out_color_grid = #7d3a51
 
 # don't draw grid lines at the top and bottom of the charts
 bg_grid_mode = 1
